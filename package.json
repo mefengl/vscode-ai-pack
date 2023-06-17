@@ -5,6 +5,7 @@
   "icon": "res/icon.png",
   "author": "mefengl",
   "publisher": "mefengl",
+  "repository": "https://github.com/mefengl/vscode-ai-pack",
   "private": true,
   "license": "MIT",
   "version": "0.0.1",
