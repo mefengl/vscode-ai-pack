@@ -1,11 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
-    <rect width="50" height="50" fill="#FAE69E"/>
-    <rect x="5" y="5" width="20" height="20" fill="#19C37D"/>
-    <circle cx="15" cy="15" r="5" fill="#FAE69E"/>
-    <rect x="25" y="5" width="20" height="20" fill="#AB68FF"/>
-    <circle cx="35" cy="15" r="5" fill="#FAE69E"/>
-    <rect x="5" y="25" width="20" height="20" fill="#2888CD"/>
-    <circle cx="15" cy="35" r="5" fill="#FAE69E"/>
-    <rect x="25" y="25" width="20" height="20" fill="#FAE69E"/>
-    <circle cx="35" cy="35" r="5" fill="#FAE69E"/>
+  <defs>
+    <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#19c37d;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#fae69e;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ab68ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#fae69e;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2888cd;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#fae69e;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path fill="#FAE69E" d="M0 0h50v50H0z"/>
+  <path fill="url(#a)" d="M5 5h20v20H5z"/>
+  <circle cx="15" cy="15" r="5" fill="#FAE69E"/>
+  <path fill="url(#b)" d="M25 5h20v20H25z"/>
+  <circle cx="35" cy="15" r="5" fill="#FAE69E"/>
+  <path fill="url(#c)" d="M5 25h20v20H5z"/>
+  <circle cx="15" cy="35" r="5" fill="#FAE69E"/>
 </svg>
