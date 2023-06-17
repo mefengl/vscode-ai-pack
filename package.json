@@ -1,0 +1,22 @@
+{
+  "name": "vscode-ai-pack",
+  "displayName": "AI Pack",
+  "description": "🍱 The AI plugin I often use is like a private collection of the head chef.",
+  "icon": "res/icon.png",
+  "author": "mefengl",
+  "publisher": "mefengl",
+  "private": true,
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "GitHub.copilot-chat",
+    "GitHub.copilot-nightly",
+    "mefengl.copy-folder-content"
+  ]
+}
