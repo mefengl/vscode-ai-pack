@@ -18,6 +18,7 @@
   "extensionPack": [
     "GitHub.copilot-chat",
     "GitHub.copilot-nightly",
+    "mefengl.vscode-i-dont-care-about-commit-message",
     "mefengl.copy-folder-content"
   ]
 }
