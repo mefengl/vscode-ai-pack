@@ -2,6 +2,10 @@
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.5] - 2023-07-03
+
+- Updated: use stable version of `Github Copilot` cause now it's also support `Copilot Chat` feature.
+
 ## [0.0.4] - 2023-06-26
 
 ### Added
