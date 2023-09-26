@@ -1,7 +1,7 @@
 {
   "name": "vscode-ai-pack",
   "displayName": "AI Pack",
-  "description": "🍱 The AI plugin I often use is like a private collection of the head chef.",
+  "description": "🍱 The AI plugin I made and use is like a private collection of the head chef.",
   "icon": "res/logo.png",
   "author": "mefengl",
   "publisher": "mefengl",
@@ -16,8 +16,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "GitHub.copilot",
-    "GitHub.copilot-chat",
     "mefengl.vscode-i-dont-care-about-commit-message",
     "mefengl.copy-folder-content"
   ]
