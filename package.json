@@ -19,5 +19,13 @@
     "mefengl.vscode-i-dont-care-about-commit-message",
     "mefengl.copy-folder-content",
     "mefengl.llm-compelete-me"
-  ]
+  ],
+  "scripts": {
+    "publish": "vsce publish --no-dependencies",
+    "release": "bumpp && nr publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.2.1",
+    "bumpp": "^10.0.1"
+  }
 }
