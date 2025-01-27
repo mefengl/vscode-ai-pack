@@ -17,6 +17,7 @@
   ],
   "extensionPack": [
     "mefengl.vscode-i-dont-care-about-commit-message",
-    "mefengl.copy-folder-content"
+    "mefengl.copy-folder-content",
+    "mefengl.llm-compelete-me"
   ]
 }
