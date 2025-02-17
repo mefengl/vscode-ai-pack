@@ -22,7 +22,7 @@
   ],
   "scripts": {
     "publish": "vsce publish --no-dependencies",
-    "release": "bumpp && nr publish"
+    "release": "bumpp -y && nr publish"
   },
   "devDependencies": {
     "@vscode/vsce": "^3.2.1",
