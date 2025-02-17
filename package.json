@@ -18,7 +18,8 @@
   "extensionPack": [
     "mefengl.vscode-i-dont-care-about-commit-message",
     "mefengl.copy-folder-content",
-    "mefengl.llm-complete-me"
+    "mefengl.llm-complete-me",
+    "mefengl.once-upon-a-prompt"
   ],
   "scripts": {
     "publish": "vsce publish --no-dependencies",
